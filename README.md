@@ -1,10 +1,10 @@
-#  landingpage-boilerplate
+#   landingpage-boilerplate
 
-> ⚙️ Base sólida, leve e escalável para construir **landing pages** e **sites simples** com **React + Vite + TailwindCSS**, seguindo o conceito de **Atomic Design**.
+>   Base sólida, leve e escalável para construir **landing pages** e **sites simples** com **React + Vite + TailwindCSS**, seguindo o conceito de **Atomic Design**.
 
 ---
 
-##  Visão Geral
+##   Visão Geral
 
 O **landingpage-boilerplate** foi criado para acelerar o desenvolvimento de landing pages modernas, mantendo uma estrutura organizada e escalável.  
 A ideia é permitir **forks rápidos** e reutilizáveis — e futuramente evoluir isso para uma **lib npm** modular.
